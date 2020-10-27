@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>812523738300-963tfut2gj26mjgh4jbtbeilg29rdbnb.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.812523738300-963tfut2gj26mjgh4jbtbeilg29rdbnb</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCT3ONfRjtNBb28Eul2RyD9Sq8r89gs_BI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>812523738300</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.MarutouCompack.PushMessengerExample</string>
+	<key>PROJECT_ID</key>
+	<string>pushmessengerexample</string>
+	<key>STORAGE_BUCKET</key>
+	<string>pushmessengerexample.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:812523738300:ios:5af6a5db689a7d5192ecb9</string>
+	<key>DATABASE_URL</key>
+	<string>https://pushmessengerexample.firebaseio.com</string>
+</dict>
+</plist>
