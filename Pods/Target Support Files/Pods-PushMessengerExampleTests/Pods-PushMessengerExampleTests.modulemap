@@ -1,0 +1,6 @@
+framework module Pods_PushMessengerExampleTests {
+  umbrella header "Pods-PushMessengerExampleTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_PushMessengerExample_PushMessengerExampleUITests : NSObject
+@end
+@implementation PodsDummy_Pods_PushMessengerExample_PushMessengerExampleUITests
+@end
